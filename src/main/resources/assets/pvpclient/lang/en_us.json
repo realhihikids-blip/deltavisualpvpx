@@ -1,0 +1,6 @@
+{
+  "key.pvpclient.open_gui": "Open PvP Client Menu",
+  "key.pvpclient.open_gui_f3": "Open PvP Client Menu (alt 1)",
+  "key.pvpclient.open_gui_equal": "Open PvP Client Menu (alt 2)",
+  "category.pvpclient": "PvP Client"
+}
